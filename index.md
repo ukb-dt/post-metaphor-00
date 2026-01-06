@@ -34,12 +34,12 @@
 > *How are you preponderating*               
 > *Under the atmospheric cosmogen*          
 > *Of the classical universe?*   
-> -Q     
+> -[Q](https://ukb-dt.github.io/fibromyalgia/ukhona/html/dude-abides.html)     
 
 > *I'm in a good soul, bright..*               
 > *And there are no symptoms whatsoever*          
 > *To symbolize the mabosity*   
-> -[A](https://muzaale.github.io/denotas/intro.html)     
+> -[A](https://muzaale.github.io/denotas/)     
 
 We need to define our landscape so that the AI we build is navigating our terrain, not just optimizing a vacuum.
 
