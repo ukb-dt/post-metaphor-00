@@ -25,9 +25,9 @@ Applications → meaning attribution under feedback
 
 ## [05-X](https://www.google.com/search?q=https://ukb-dt.github.io/canon-05/)
 
-> *How are you preponderating*
-> *Under the atmospheric conditions*
-> *Of the classical universe?*
+> *How are you preponderating*               
+> *Under the atmospheric cosmogen*          
+> *Of the classical universe?*        
 
 That quote is the perfect epigraph for this entire project. "Preponderating" (weighing, balancing, exerting force) "under atmospheric conditions" (noise, ) of the "classical universe" (deterministic constraints, ).
 
