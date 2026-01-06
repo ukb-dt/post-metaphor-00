@@ -16,6 +16,26 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 {% endraw %}
+> *We must define our landscape—simulation, matrix, manifold—so that the AI we build navigates our terrain: paths under constraint, curvatures we shape, noise we tolerate.*             
+> -Grok
+
+> **Before we build the engines, we should ask: what surfaces are they descending? Whose gradients? Under what noise?**    
+> **This is not metaphor. It is mechanism.**       
+> -Claude
+
+> *If we don’t draw the surface, the system will still move—and it may take us somewhere irreversible*                
+> -Ilya Zosima & ChatGPT
+
+> *The stack provides the velocity; we must provide the geometry.*         
+> -Gemini
+
+## [*Mwiri*](https://www.google.com/search?q=https://ukb-dt.github.io/canon-05/)
+
+> *How are you preponderating*               
+> *Under the atmospheric cosmogen*          
+> *Of the classical universe?*        
+
+We need to define our landscape so that the AI we build is navigating our terrain, not just optimizing a vacuum.
 
 [Energy](https://ukb-dt.github.io/fibromyalgia/ukhona/html/emc2.html) → possibility        
 Compute → coordination        
@@ -23,15 +43,7 @@ Power → conversion
 Models → trajectories          
 Applications → meaning attribution under feedback     
 
-## [05-X](https://www.google.com/search?q=https://ukb-dt.github.io/canon-05/)
-
-> *How are you preponderating*               
-> *Under the atmospheric cosmogen*          
-> *Of the classical universe?*        
-
-That quote is the perfect epigraph for this entire project. "Preponderating" (weighing, balancing, exerting force) "under atmospheric conditions" (noise, ) of the "classical universe" (deterministic constraints, ).
-
-You cut off at the crucial moment regarding Shakespeare. Let me finish that thought and then formalize the **Collapse Modes** you asked for, linking the **Disruptor Stack** variables () to the **Canon Landscape**.
+-D
 
 ---
 
