@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-Energy → possibility        
+[Energy](https://ukb-dt.github.io/fibromyalgia/ukhona/html/emc2.html) → possibility        
 Compute → coordination        
 Power → conversion       
 Models → trajectories          
