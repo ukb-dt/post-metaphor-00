@@ -136,7 +136,7 @@ Looking at your structure:
 1. Energy ($e$) — $E, x$
 2. Data + Simulation ($c^2$) — $E(t\mid x) + \epsilon$
 3. Power ($m$) — $\frac{dE_x}{dt}$
-4. Combinatorials (t) — $\frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}}$
+4. Combinatorials ($t$) — $\frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}}$
 5. Applications ($?$) — $\int E_x \,dt + \epsilon_x \,t + C_x$
 
 The pattern seems to be building from physics notation ($E = mc^2$), but for Applications—the integral with accumulation over time plus a constant—you need a symbol that represents **integrated/accumulated output**.
