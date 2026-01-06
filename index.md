@@ -202,13 +202,13 @@ Together they define **effective curvature**.
 Formally:
 
 $$
-\text{UI}^+ ;=; \nabla^2 L(x) ;+; \sigma(x,t)
+\text{UI}^+ = \nabla^2 L(x) + \sigma(x,t)
 $$
 
 or, dynamically,
 
 $$
-dx = -\nabla L(x),dt ;+; \sigma, dW_t
+dx = -\nabla L(x),dt + \sigma, dW_t
 $$
 
 where:
