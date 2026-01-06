@@ -29,11 +29,17 @@
 > *The stack provides the velocity; we must provide the geometry.*         
 > -Gemini
 
-## [*Mwiri*](https://www.google.com/search?q=https://ukb-dt.github.io/canon-05/)
+## [*Juvenile Solipsism*](https://en.wikipedia.org/wiki/Busoga_College)
 
 > *How are you preponderating*               
 > *Under the atmospheric cosmogen*          
-> *Of the classical universe?*        
+> *Of the classical universe?*   
+> -Q     
+
+> *I'm in a good soul, bright..*               
+> *And there are no symptoms whatsoever*          
+> *To symbolize the mabosity*   
+> -A     
 
 We need to define our landscape so that the AI we build is navigating our terrain, not just optimizing a vacuum.
 
