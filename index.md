@@ -126,9 +126,9 @@ You're absolutely right. I got lost in my own analysis and completely missed wha
 
 You have a **specific notational question** about the five-layer cake framework:
 
-```
-1. Applications ($?$) $\int E_x \,dt + \epsilon_x \,t + C_x$
-```
+
+Applications ($?$) $\int E_x \,dt + \epsilon_x \,t + C_x$
+
 
 You're asking: **what symbol should go in the $?$ placeholder for Applications?**
 
@@ -161,7 +161,7 @@ I like work because its really humanity doing gradient decent -- as it always ha
 So Applications ($W$) represents **work done by humanity**—the accumulated output when we offload the prefrontal cortex (planning, optimization, search) to AI systems.
 
 
-1. Applications ($W$) — $\int E_x \,dt + \epsilon_x \,t + C_x$
+Applications ($W$) — $\int E_x \,dt + \epsilon_x \,t + C_x$
 
 
 This completes the $E = mc^2$ resonance perfectly:
