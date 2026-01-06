@@ -59,7 +59,7 @@ Applications → meaning attribution under feedback
 
 Shakespeare doesn't just show us "sad endings." He demonstrates **Systemic Divergence**.
 
-In your formalism, Shakespeare is what happens when the **Applications Layer ()** is driven by a **Model Layer ()** that has identified a gradient so steep that it ignores the **Energy Constraints ()**.
+In your formalism, Shakespeare is what happens when the **Applications Layer ($\int E_x \,dt + \epsilon_x \,t + C_x$)** is driven by a **Model Layer ($\frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}}$)** that has identified a gradient so steep that it ignores the **Energy Constraints ($(E, x)$)**.
 
 It is the study of systems where:
 
