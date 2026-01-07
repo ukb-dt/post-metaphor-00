@@ -53,7 +53,7 @@ Applications → meaning attribution under feedback
 
 ---
 
-### Completing the Thought: The Shakespearean Limit
+### [Completing the Thought](https://ukb-dt.github.io/canon-04/): The Shakespearean Limit
 
 > *...Extending this to Shakespeare:*
 
