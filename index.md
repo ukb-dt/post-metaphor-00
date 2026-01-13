@@ -41,6 +41,7 @@
 > *To symbolize the mabosity*   
 > -[A](https://muzaale.github.io/denotas/)     
 
+<br>
 <details>
    <summary>Class Clown</summary>
 
@@ -59,6 +60,7 @@ Nabwiso too in the 80s
 Airplane drop of chemicals cleared the flies , after Europeans arrived 
 
 </details>
+<br>
 
 We need to define our landscape so that the AI we build is navigating our terrain, not just optimizing a vacuum.
 
