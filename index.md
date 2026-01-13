@@ -31,7 +31,7 @@
 
 ## [*Juvenile Solipsism*](https://en.wikipedia.org/wiki/Busoga_College)
 
-> *How are you preponderating*               
+> *How are you [preponderating](https://busogatoday.com/the-father-we-will-always-remember/)*               
 > *Under the atmospheric cosmogen*          
 > *Of the classical universe?*   
 > -[Q](https://ukb-dt.github.io/fibromyalgia/ukhona/html/dude-abides.html)     
@@ -40,6 +40,25 @@
 > *And there are no symptoms whatsoever*          
 > *To symbolize the mabosity*   
 > -[A](https://muzaale.github.io/denotas/)     
+
+<details>
+   <summary>Class Clown</summary>
+
+Nathan Mugabira (From Masese primary -> Mwiri)
+
+Class-clown’s have misery 
+
+I received a negative from a girl 
+
+Art as distraction “embwa flies”,  not Tsetse flies 
+
+Belt around Jinja 
+
+Nabwiso too in the 80s 
+
+Airplane drop of chemicals cleared the flies , after Europeans arrived 
+
+</details>
 
 We need to define our landscape so that the AI we build is navigating our terrain, not just optimizing a vacuum.
 
